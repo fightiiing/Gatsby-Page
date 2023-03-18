@@ -25,5 +25,3 @@ const { title }= data.site.siteMetadata
     </nav>
   )
 }
-
-

@@ -1,5 +1,5 @@
 ---
-title: SuperHero App
+title: Salad Farm
 stack: Html, CSS, React
 slug: real-kitchen-food
 date: 2023-03-06

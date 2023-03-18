@@ -1,5 +1,5 @@
 ---
-title: Trainer Trainer
+title: Sneakers
 stack: Gatsby & Shopify
 slug: trainer-trainer
 date: 2023-03-19
