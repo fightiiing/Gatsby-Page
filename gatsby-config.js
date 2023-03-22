@@ -33,7 +33,7 @@ module.exports = {
     }  
   ],
   siteMetadata: {
-    title: 'A Sample Portfolio Website',
+    title: 'A Sample Gatsby Portfolio Website',
     description: 'wed dev portfolio',
     copyright: 'This website is copyright 2023 My portfolio',
     contact: 'me@thiswebsite.com'

@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { header, btn } from '../styles/home.module.css'
-import { Link, graphql } from "gatsby"
+import { header } from '../styles/home.module.css'
+import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 export default function Home({data}) {
@@ -13,8 +13,7 @@ return (
       <div>
         <h2>Design</h2>
         <h3>Develop & Deploy</h3>
-     <p>Hello world! This is the homepage</p>
-     <Link className={btn} to="/projects">My Portfolio project</Link>
+
      </div>
      <GatsbyImage image={image} alt="banner"/>
   </section>

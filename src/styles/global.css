@@ -14,10 +14,7 @@ html, body {
 }
 
 html {
-  /* background: radial-gradient(at top right, rgba(146,43,225,1) 0%, rgba(43,9,107,1) 100%);
-  background-repeat: no-repeat; */
   background: radial-gradient(#f1a5a5, #b6baeb);
-
 }
 
 p {
